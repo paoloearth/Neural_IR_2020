@@ -1,6 +1,12 @@
----
+
 
 ---
+
+Link to get the whole project, containing also the data and the pre-trained embeddings: [HERE]( https://drive.google.com/file/d/17E9fIbZPk7zkwopqEt47g7fDJ4H2fVz7/view?usp=sharing)
+
+---
+
+
 
 # Neural IR 2020
 
@@ -16,7 +22,7 @@ The  3-notebooks project is split in 3 jupyter files:
 
 - `2_PlayGround.ipynb`
 
-Al these will be used during the live presentation as a support to the theoretical material.
+All these will be used during the live presentation as a support to the theoretical material.
 
 ---
 
